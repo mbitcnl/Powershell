@@ -16,6 +16,7 @@ Features:
 - UPN domain selectie
 - OU Path selectie
 - Account Preview (alleen single user)
+- Logging
 
 Email settings kunnen ook in de GUI ingesteld worden:
 - SMTP Server 
