@@ -1,12 +1,13 @@
 # Create AD user with GUI
 Deze powershell script met een GUI, kun je 1 of met CSV bulk import functie active directory users aanmaken waarbij een automatisch gegenereerd password per mail wordt verstuurd.
 Maakt automatisch username aan op basis van Voor en Achternaam:
-Jan Pet:
-username = j.pet
+
+Jan Pet:<br>
+username = j.pet<br>
 mail =j.pet@mijndomain.nl
 
-Jan met de Pet:
-username = j.metdepet
+Jan met de Pet:<br>
+username = j.metdepet<br>
 mail = j.metdepet@mijndomain.nl
 
 Features: 
